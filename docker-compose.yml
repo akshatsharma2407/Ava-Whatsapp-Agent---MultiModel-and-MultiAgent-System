@@ -1,0 +1,12 @@
+services:
+  whatsapp:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "8080:8080"
+    env_file:
+      - .env
+    restart: unless-stopped
+    volumes: 
+      - ./short_term_memory:/app/data
