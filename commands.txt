@@ -1,0 +1,4 @@
+docker-compose up --build -d
+docker-compose down
+docker-compose logs --tail 50 whatsapp
+ngrok http --domain=unbettered-rod-dirgeful.ngrok-free.dev 127.0.0.1:8080
