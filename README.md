@@ -10,21 +10,21 @@
 
 ## Project Overview
 
-**Ava**, a Whatsapp agent that can engage with users in a "realistic" way, inspired by the great film [Ex Machina](https://www.imdb.com/es-es/title/tt0470752/). Ok, you won't find a fully sentient robot here, but you **will** have some pretty interesting Whatsapp conversations also have capability of generating and executing SQL queries and send sales mail.
+### Ava: A WhatsApp Agent Inspired by *Ex Machina*
 
-## What I have Implemented in this project.
+Ava is a WhatsApp agent designed to engage with users in a "realistic" way, inspired by the film *Ex Machina*. While you won't find a fully sentient robot here, you will experience engaging conversations. Ava also features the capability to generate and execute SQL queries and send professional sales emails.
 
-* Build a fully working WhatsApp agent you can chat with on any phone.
-* build LangGraph workflows.
-* Set up a long-term memory system using Qdrant as a Vector Database
-* Use Groq models to power AI Agent responses
-* Implement STT systems using Groq
-* Implement TTS systems using ElevenLabs
-* Generate high-quality images using diffusion models, like FLUX models
-* Process images using VLM models, like llama-3.2-vision
-* Connect agentic applications to the WhatsApp API
-* Add Natrual language to SQL Generation and Execution Multi Agent workflow
-* Add Sales Agent to send the marketing email.
+#### Key Implementation Features:
+
+* **Fully Functional WhatsApp Agent:** Built a chat-ready agent accessible from any phone.
+* **LangGraph Workflows:** Developed complex agentic behaviors using LangGraph.
+* **Long-Term Memory:** Integrated a memory system using Qdrant as a Vector Database.
+* **High-Performance AI:** Powered agent responses and STT (Speech-to-Text) systems using Groq models.
+* **TTS Integration:** Implemented Text-to-Speech using ElevenLabs.
+* **Multimodal Capabilities:** Generated high-quality images with FLUX diffusion models and processed visual data using Llama-3.2-vision.
+* **WhatsApp API Integration:** Connected agentic applications directly to the WhatsApp API.
+* **NL2SQL Workflow:** Added a Multi-Agent workflow for Natural Language to SQL generation and execution.
+* **Sales Automation:** Integrated a Sales Agent to automate marketing emails.
 
 ---
 
