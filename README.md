@@ -62,3 +62,8 @@ Ava is a WhatsApp agent designed to engage with users in a "realistic" way, insp
 </table>
 
 ---
+
+## LangGraph (The Core) Workflow Diagram
+<p align="center">
+    <img alt="logo" src="img/graph_workflow.png" width=1500 />
+</p>
