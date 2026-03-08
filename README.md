@@ -56,8 +56,8 @@
     <td>Amazing TTS models</td>
   </tr>
   <tr>
-    <td><img src="img/langsmith.png" width="100" alt="for obersability and debugging"/></td>
-    <td>Amazing TTS models</td>
+    <td><img src="img/langsmith.png" width="100" alt="Langsmith Logo"/></td>
+    <td>For Obersability and debugging</td>
   </tr>
 </table>
 
